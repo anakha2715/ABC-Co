@@ -1,1 +1,1 @@
-# ABC-Co
+The dataset is about ABC Co consisting of 458 rows 9 columns.The Co requires a comprehensive report detailing information about their employees across various teams.Here,In the column of Height they have given the values as dates.So we changed the values as 'heights'.The 'Height' range is around 150 & 180.ABC Co is having 458 employees.Mostly,the employees are of age 24.From this we can understand,employees are more youth and the Co is stable.Kobe Bryant is the high paid employee.Highest Salary ,The CO is giving around 25000000.
